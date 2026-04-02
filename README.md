@@ -3,6 +3,8 @@ AiCryptoCast is a Python project that predicts the real-time next-hour Bitcoin (
 In addition, this model also includes factor extraction for TC (Trend Confidence), PWMA (Predictive Weighted Moving Average), incorporating the FamaMacBeth estimation for all factors across multiple crypto assets. THe model reaches decent accuracy with ~0.25% overall error calculated from MAE, and ~0.34% from RMSE; it successfully captures the future movement trend.
 This project is built for personal interest
 
+Copyright belongs to repo onwer.
+
 ## Contents
 - [Install](https://github.com/wynonawan/AiCryptoCast/blob/main/README.md#installation-steps)
 - Bitcoin Forcast:
